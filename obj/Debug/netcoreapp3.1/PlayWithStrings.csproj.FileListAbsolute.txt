@@ -1,0 +1,13 @@
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\bin\Debug\netcoreapp3.1\PlayWithStrings.exe
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\bin\Debug\netcoreapp3.1\PlayWithStrings.deps.json
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\bin\Debug\netcoreapp3.1\PlayWithStrings.runtimeconfig.json
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\bin\Debug\netcoreapp3.1\PlayWithStrings.runtimeconfig.dev.json
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\bin\Debug\netcoreapp3.1\PlayWithStrings.dll
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\bin\Debug\netcoreapp3.1\PlayWithStrings.pdb
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\obj\Debug\netcoreapp3.1\PlayWithStrings.csprojAssemblyReference.cache
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\obj\Debug\netcoreapp3.1\PlayWithStrings.AssemblyInfoInputs.cache
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\obj\Debug\netcoreapp3.1\PlayWithStrings.AssemblyInfo.cs
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\obj\Debug\netcoreapp3.1\PlayWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\obj\Debug\netcoreapp3.1\PlayWithStrings.dll
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\obj\Debug\netcoreapp3.1\PlayWithStrings.pdb
+C:\Users\NESINH1\source\repos\PlayWithStrings\PlayWithStrings\obj\Debug\netcoreapp3.1\PlayWithStrings.genruntimeconfig.cache
