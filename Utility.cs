@@ -10,7 +10,7 @@ namespace PlayWithStrings
         public static string LastWord(int position, String stringVariable, char charToPass)
         {
             string[] res = stringVariable.Split(charToPass.ToString());
-            if (res[position] == null)
+            if (position >= res.Length || res[position] == null )
             {
                 Console.WriteLine("No word is there at position " + position);
                 return "";
